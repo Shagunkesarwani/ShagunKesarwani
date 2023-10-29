@@ -6,9 +6,9 @@
 Passionate for learning and exploring new technologies💭. I believe in giving my best and love what I do🤓. Life is too short to explore all and more I learn, the more I grow💻. </h3><br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🔭 I’m currently working on **Next.js, React.js , Javascript , Bootstrap , Tailswind CSS**
+- 🔭 I’m currently working on **Next.js,MongoDB React.js , Javascript , Bootstrap , Tailswind CSS**
 
-- 🌱 I’m currently learning **Node.js , Express , MongoDB**
+- 🌱 I’m currently learning **Node.js , Express (Backend development)**
 
 - 🤝 I’m available for **freelancing**
 
