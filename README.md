@@ -12,7 +12,7 @@ Passionate for learning and exploring new technologies💭. I believe in giving 
 
 - 🤝 I’m available for **freelancing**
 
-- 👨‍💻 All of my projects are available at [repository](repository)
+- 👨‍💻 All of my projects are available at repository
 
 - 💬 Ask me about **Front-end development**
   
